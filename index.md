@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## M0stlyB1nary
 
 You can use the [editor on GitHub](https://github.com/M0stlyB1nary/allyourbase/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
